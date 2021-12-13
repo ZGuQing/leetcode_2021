@@ -1,0 +1,15 @@
+# mac
+.DS_Store
+.log
+
+# IDE
+.idea
+.svn
+target
+*.iml
+
+# project
+logs
+out
+src/main/resources/application-prod.yml
+#src/main/resources/application.yml
