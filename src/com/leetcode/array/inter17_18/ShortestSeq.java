@@ -1,6 +1,5 @@
 package com.leetcode.array.inter17_18;
 
-import org.junit.Test;
 
 import java.util.HashMap;
 import java.util.Map;
